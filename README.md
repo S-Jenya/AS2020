@@ -11,7 +11,7 @@
 * postgresql-12.3-2-windows-x64.exe -- установочник pgAdmin 4.
 
 
-## Настройка и запуск приложения
+## Настройка сервера
 
 Установите pgAdmin 4 при помощи запуска файла postgresql-12.3-2-windows-x64.exe
 - логин: postgres;
