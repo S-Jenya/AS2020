@@ -6,8 +6,8 @@
 * Diagram.png -- ER-диаграмма;
 * Diagram.pgd -- ER-диаграмма;
 * script.sql -- скрипт на создание базы данных и таблиц;
-* папка DronTaxi_Demo -- исполняемый файл приложения;
-* папка DronTaxi -- исходный код.
+* архив DronTaxi_Demo.zip -- исполняемый файл приложения;
+* архив DronTaxi.zip -- исходный код.
 * pgAdmin_instal.txt -- файл с ссылкой на google диск на установочник postgresql-12.3-2-windows-x64.exe.
 
 
