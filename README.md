@@ -17,7 +17,7 @@
 - перейдите по ссылке в pgAdmin_instal.txt и скачайте postgresql-12.3-2-windows-x64.exe;
 - установите postgresql-12.3-2-windows-x64.exe;
 - логин (по умолчанию): postgres;
-- пароль: admin;
+- установите пароль: admin;
 
 Запустите pgAdmin 4: 
 - создайте базу данных atom;
