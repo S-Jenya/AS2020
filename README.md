@@ -8,13 +8,15 @@
 * script.sql -- скрипт на создание базы данных и таблиц;
 * папка DronTaxi_Demo -- исполняемый файл приложения;
 * папка DronTaxi -- исходный код.
-* postgresql-12.3-2-windows-x64.exe -- установочник pgAdmin 4.
+* pgAdmin_instal.txt -- файл с ссылкой на google диск на установочник postgresql-12.3-2-windows-x64.exe.
 
 
 ## Настройка сервера
 
-Установите pgAdmin 4 при помощи запуска файла postgresql-12.3-2-windows-x64.exe
-- логин: postgres;
+Установите pgAdmin 4:
+- перейдите по ссылке в pgAdmin_instal.txt и скачайте postgresql-12.3-2-windows-x64.exe;
+- установите postgresql-12.3-2-windows-x64.exe;
+- логин (по умолчанию): postgres;
 - пароль: admin;
 
 Запустите pgAdmin 4: 
